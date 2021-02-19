@@ -1,0 +1,1 @@
+# Lista-de-Exerc-cio-6---Algoritmos-de-Ordena-o-e-Recurs-o
